@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Astrolinks](https://www.astrolinks.com.br/)
 
-- 📚 Currently studying ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp; for mobile development
+- 📚 Currently studying ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp; for mobile development
 
 - ⚡ Fun fact: **backend gang 😜**
 
