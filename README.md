@@ -7,7 +7,6 @@
 
 - 📚 Currently studying ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp; for mobile development
 
-- ⚡ Fun fact: **backend gang 😜**
 
 <br><br>
 
