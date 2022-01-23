@@ -3,7 +3,7 @@
 
 - 🔥 Web Developer & Analysis and Development student
 
-- Specialized in ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp; Rest API's
+- 🤖 Specialized in ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp; Rest API's
 
 - 🔭 I’m currently working at [Astrolinks](https://www.astrolinks.com.br/)
 
