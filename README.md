@@ -9,11 +9,6 @@
 
 - 📚 Currently studying ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp; for mobile development
 
-<br>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kewem&theme=blue-green)&nbsp;
-
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
