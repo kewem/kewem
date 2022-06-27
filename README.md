@@ -1,8 +1,8 @@
-<h1 align="left">Olá, que bom que chegou até aqui.</h1>
+<h1 align="left">Olá, meu nome é Alan Kewem.</h1>
 
 ###
 
-<p align="left">Meu nome é Alan Kewem, tenho 21 anos e sou do Amazonas, iniciei na programação no ensino médio que cursei no Instituto Federal do Amazonas (IFAM), lá tive contato com PHP, Java e Javascript, além de aprender também o básico sobre Frontend utilizando HTML e CSS, mas meu foco desde lá tem sido o desenvolvimento Backend, me especializei em API's Rest por meio de cursos em desenvolvimento com NodeJS e Typescript e hoje atuo como desenvolvedor Backend em uma plataforma B2B com foco no agronegócio.</p>
+<p align="left">Tenho 21 anos e sou do Amazonas, iniciei na programação no ensino médio que cursei no Instituto Federal do Amazonas (IFAM), lá tive contato com PHP, Java e Javascript, além de aprender também o básico sobre Frontend utilizando HTML e CSS, mas meu foco desde lá tem sido o desenvolvimento Backend, me especializei em API's Rest por meio de cursos em desenvolvimento com NodeJS e Typescript e hoje atuo como desenvolvedor Backend em uma plataforma B2B com foco no agronegócio.</p>
 
 ###
 
